@@ -1,0 +1,30 @@
+@import 'colors.css';
+
+.xfce4-panel#XfcePanelWindow {
+	border-radius: 10px;
+}
+
+#pulseaudio-button image {
+    -gtk-icon-transform: scale(0.7);
+    
+}
+#xfce-panel-button image {
+    -gtk-icon-transform: scale(0.9);
+}
+
+#xfce4-clipman-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-notification-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-battery-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-power-manager-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
