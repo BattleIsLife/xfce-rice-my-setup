@@ -1,0 +1,35 @@
+@import 'colors.css';
+
+.xfce4-panel#XfcePanelWindow {
+	border-radius: 10px;
+}
+
+#pulseaudio-button image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce-panel-button image {
+    -gtk-icon-transform: scale(0.7);
+    margin-top: 1px;
+}
+
+#launcher-7 image {
+    -gtk-icon-transform: scale(0.75);
+}
+
+#xfce4-clipman-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-notification-plugin image {
+    -gtk-icon-transform: scale(0.7);
+    margin-top: 1px;
+}
+
+#xfce4-battery-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
+
+#xfce4-power-manager-plugin image {
+    -gtk-icon-transform: scale(0.7);
+}
